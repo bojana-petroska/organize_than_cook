@@ -26,6 +26,10 @@ A full-stack web application for managing and planning recipes. **CookNPlan** al
 - #### *Recipe Scaling:*
 
   - Adjust ingredient quantities based on the number of servings required. For example, scale a recipe for 4 servings up to 8 servings easily.
+ 
+- #### *Turn on cooking mode:*
+
+  - When this mode is turned on, the screen doesn't go into sleep mode.
 
 - #### *Responsive Design:*
 
@@ -47,11 +51,3 @@ A full-stack web application for managing and planning recipes. **CookNPlan** al
 - #### Database:
 
   - MongoDB
-  
-- #### State Management:
-
-  - React Context API or Redux
-
-- #### Authentication:
-
-  - NextAuth.js
