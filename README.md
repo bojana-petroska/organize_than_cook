@@ -1,6 +1,6 @@
 ## CookNPlan
 
-A full-stack web application for managing and planning recipes. **CookNPlan** allows users to upload recipes, categorize them, plan meals for the week, and generate tailored shopping lists. Built with Next.js, TypeScript, MongoDB, Node.js, and Express, it’s designed to streamline meal planning and shopping.
+A full-stack web application for managing and planning recipes. **CookNPlan** allows users to upload recipes, categorize them, plan meals for the week, and generate shopping lists. Built with Next.js, TypeScript, MongoDB, Node.js, and Express.
 
 ### Features
 - #### *Recipe Management:*
@@ -13,11 +13,11 @@ A full-stack web application for managing and planning recipes. **CookNPlan** al
   - Drag-and-drop interface for planning meals throughout the week.
   - Automatically updates the meal schedule and shopping list based on selected recipes.
 
-- #### *Tailored Shopping List:*
+- #### *Shopping List:*
 
   - Dynamic List Generation: Creates a customized shopping list based on selected meals for the week.
   - Ingredient Aggregation: Combines ingredient quantities from multiple recipes to minimize waste and ensure all needed items are included.
-  - Shopping List Optimization: Groups items by category (e.g., produce, dairy) to streamline your shopping experience.
+  - Shopping List Optimization: Groups items by category (e.g., produce, dairy).
 
 - #### *Recipe Sharing:*
 
